@@ -8,10 +8,26 @@ contract PayPalOnchain is ReentrancyGuard {
     mapping(address => mapping(address => uint256)) public balances;
     mapping(address => string) public addressToUsername;
     mapping(string => address) public usernameToAddress;
+    mapping(address => bool) public merchants;
+    mapping(uint256 => Invoice) public invoices;
+    uint256 public invoiceCounter;
+    
+    struct Invoice {
+        address merchant;
+        address customer;
+        address token;
+        uint256 amount;
+        uint256 dueDate;
+        bool paid;
+    }
     
     event PaymentSent(address indexed from, address indexed to, address token, uint256 amount);
     event UsernameRegistered(address indexed user, string username);
     event Deposited(address indexed user, address token, uint256 amount);
+    event MerchantRegistered(address indexed merchant);
+    event InvoiceCreated(uint256 indexed invoiceId, address merchant, address customer);
+    event InvoicePaid(uint256 indexed invoiceId);
+    event Withdrawn(address indexed user, address token, uint256 amount);
 
     function registerUsername(string memory username) external {
         require(bytes(username).length > 0, "Username cannot be empty");
@@ -42,5 +58,58 @@ contract PayPalOnchain is ReentrancyGuard {
         balances[to][token] += amount;
         
         emit PaymentSent(msg.sender, to, token, amount);
+    }
+
+    function sendPaymentByUsername(string memory username, address token, uint256 amount) external nonReentrant {
+        address to = usernameToAddress[username];
+        require(to != address(0), "Username not found");
+        require(amount > 0, "Amount must be greater than 0");
+        require(balances[msg.sender][token] >= amount, "Insufficient balance");
+        
+        balances[msg.sender][token] -= amount;
+        balances[to][token] += amount;
+        
+        emit PaymentSent(msg.sender, to, token, amount);
+    }
+
+    function withdraw(address token, uint256 amount) external nonReentrant {
+        require(amount > 0, "Amount must be greater than 0");
+        require(balances[msg.sender][token] >= amount, "Insufficient balance");
+        
+        balances[msg.sender][token] -= amount;
+        IERC20(token).transfer(msg.sender, amount);
+        
+        emit Withdrawn(msg.sender, token, amount);
+    }
+
+    function registerMerchant() external {
+        require(!merchants[msg.sender], "Already registered as merchant");
+        merchants[msg.sender] = true;
+        emit MerchantRegistered(msg.sender);
+    }
+
+    function createInvoice(address customer, address token, uint256 amount, uint256 dueDate) external {
+        require(merchants[msg.sender], "Only merchants can create invoices");
+        require(customer != address(0), "Invalid customer");
+        require(amount > 0, "Amount must be greater than 0");
+        
+        invoiceCounter++;
+        invoices[invoiceCounter] = Invoice(msg.sender, customer, token, amount, dueDate, false);
+        
+        emit InvoiceCreated(invoiceCounter, msg.sender, customer);
+    }
+
+    function payInvoice(uint256 invoiceId) external nonReentrant {
+        Invoice storage invoice = invoices[invoiceId];
+        require(invoice.customer == msg.sender, "Not your invoice");
+        require(!invoice.paid, "Invoice already paid");
+        require(balances[msg.sender][invoice.token] >= invoice.amount, "Insufficient balance");
+        
+        balances[msg.sender][invoice.token] -= invoice.amount;
+        balances[invoice.merchant][invoice.token] += invoice.amount;
+        invoice.paid = true;
+        
+        emit InvoicePaid(invoiceId);
+        emit PaymentSent(msg.sender, invoice.merchant, invoice.token, invoice.amount);
     }
 }
