@@ -29,3 +29,4 @@ contract CommitHistory {
 // Commit 14: refactor: improve contract modularity
 // Commit 15: security: add emergency stop mechanism
 // Commit 16: docs: add deployment guide
+// Commit 17: feat: add contract registry system
