@@ -248,3 +248,4 @@ contract CommitHistory {
 // Commit 233: refactor: improve invoice validation
 // Commit 234: docs: add invoice migration guide
 // Commit 235: feat: add invoice reconciliation
+// Commit 236: security: implement invoice auditing
