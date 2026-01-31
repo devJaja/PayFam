@@ -173,3 +173,4 @@ contract CommitHistory {
 // Commit 158: security: implement payment backups
 // Commit 159: refactor: improve payment synchronization
 // Commit 160: docs: add payment recovery procedures
+// Commit 161: feat: add cross-chain payments
