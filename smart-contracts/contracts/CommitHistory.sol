@@ -134,3 +134,4 @@ contract CommitHistory {
 // Commit 119: refactor: improve balance synchronization
 // Commit 120: docs: add balance recovery procedures
 // Commit 121: feat: implement instant payments
+// Commit 122: security: add payment validation
