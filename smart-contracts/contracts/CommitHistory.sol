@@ -37,3 +37,4 @@ contract CommitHistory {
 // Commit 22: refactor: improve error handling
 // Commit 23: security: add rate limiting mechanisms
 // Commit 24: docs: add troubleshooting guide
+// Commit 25: feat: add contract monitoring hooks
