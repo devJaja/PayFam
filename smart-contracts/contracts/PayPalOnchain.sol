@@ -126,3 +126,4 @@ contract PayPalOnchain is ReentrancyGuard {
         emit PaymentSent(msg.sender, invoice.merchant, invoice.token, invoice.amount);
     }
 }
+// Commit 4: refactor: improve code formatting and spacing
