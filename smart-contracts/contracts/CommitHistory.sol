@@ -97,3 +97,4 @@ contract CommitHistory {
 // Commit 82: security: implement balance overflow checks
 // Commit 83: refactor: optimize balance calculations
 // Commit 84: docs: add balance management guide
+// Commit 85: feat: add balance history tracking
