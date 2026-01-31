@@ -228,3 +228,4 @@ contract CommitHistory {
 // Commit 213: refactor: optimize invoice storage
 // Commit 214: docs: add invoice system guide
 // Commit 215: feat: add invoice automation
+// Commit 216: security: prevent invoice fraud
