@@ -222,3 +222,4 @@ contract CommitHistory {
 // Commit 207: feat: add merchant forecasting
 // Commit 208: security: implement merchant backups
 // Commit 209: refactor: improve merchant synchronization
+// Commit 210: docs: add merchant recovery procedures
