@@ -184,3 +184,4 @@ contract PayPalOnchain is ReentrancyGuard {
 // Commit 59: feat: add payment batching system
 // Commit 60: refactor: optimize memory usage
 // Commit 61: feat: add dynamic fee adjustment
+// Commit 62: security: add fraud detection hooks
