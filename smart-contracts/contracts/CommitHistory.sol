@@ -101,3 +101,4 @@ contract CommitHistory {
 // Commit 86: security: prevent balance manipulation
 // Commit 87: refactor: improve balance storage
 // Commit 88: docs: add balance API documentation
+// Commit 89: feat: implement balance notifications
