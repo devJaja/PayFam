@@ -200,3 +200,4 @@ contract PayPalOnchain is ReentrancyGuard {
 // Commit 75: refactor: improve contract readability
 // Commit 76: feat: add merchant analytics system
 // Commit 77: security: add emergency withdrawal
+// Commit 78: docs: add upgrade procedures
