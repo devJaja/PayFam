@@ -122,3 +122,4 @@ contract CommitHistory {
 // Commit 107: refactor: optimize balance indexing
 // Commit 108: docs: add balance FAQ
 // Commit 109: feat: add balance reporting
+// Commit 110: security: prevent balance exploits
