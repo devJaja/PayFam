@@ -350,3 +350,4 @@ contract CommitHistory {
 // Commit 335: refactor: improve data structures
 // Commit 336: perf: implement lazy loading
 // Commit 337: docs: add performance benchmarks
+// Commit 338: perf: optimize memory usage
