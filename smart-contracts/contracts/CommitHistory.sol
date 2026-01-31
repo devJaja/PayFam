@@ -231,3 +231,4 @@ contract CommitHistory {
 // Commit 216: security: prevent invoice fraud
 // Commit 217: refactor: improve invoice queries
 // Commit 218: docs: add invoice API reference
+// Commit 219: feat: implement invoice reminders
