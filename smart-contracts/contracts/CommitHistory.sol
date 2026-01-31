@@ -327,3 +327,4 @@ contract CommitHistory {
 // Commit 312: feat: add system alerts
 // Commit 313: security: add vulnerability scanning
 // Commit 314: refactor: improve security events
+// Commit 315: docs: add security troubleshooting
