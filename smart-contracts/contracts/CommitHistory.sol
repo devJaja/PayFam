@@ -176,3 +176,4 @@ contract CommitHistory {
 // Commit 161: feat: add cross-chain payments
 // Commit 162: security: implement payment escrow
 // Commit 163: refactor: optimize payment fees
+// Commit 164: docs: add payment compliance guide
