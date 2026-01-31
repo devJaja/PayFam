@@ -36,3 +36,4 @@ contract CommitHistory {
 // Commit 21: feat: implement proxy pattern support
 // Commit 22: refactor: improve error handling
 // Commit 23: security: add rate limiting mechanisms
+// Commit 24: docs: add troubleshooting guide
