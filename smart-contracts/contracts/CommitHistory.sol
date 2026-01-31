@@ -307,3 +307,4 @@ contract CommitHistory {
 // Commit 292: security: add dispute auditing
 // Commit 293: refactor: improve dispute validation
 // Commit 294: docs: add dispute migration guide
+// Commit 295: feat: add dispute reporting
