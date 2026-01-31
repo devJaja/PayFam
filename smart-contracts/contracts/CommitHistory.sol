@@ -279,3 +279,4 @@ contract CommitHistory {
 // Commit 264: docs: add subscription migration guide
 // Commit 265: feat: add subscription reconciliation
 // Commit 266: security: implement subscription blacklist
+// Commit 267: refactor: optimize subscription caching
