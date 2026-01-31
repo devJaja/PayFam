@@ -274,3 +274,4 @@ contract CommitHistory {
 // Commit 259: refactor: optimize subscription updates
 // Commit 260: docs: add subscription best practices
 // Commit 261: feat: implement subscription search
+// Commit 262: security: add subscription auditing
