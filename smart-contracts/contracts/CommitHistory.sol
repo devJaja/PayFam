@@ -156,3 +156,4 @@ contract CommitHistory {
 // Commit 141: feat: implement payment streaming
 // Commit 142: security: add payment monitoring
 // Commit 143: refactor: improve payment validation
+// Commit 144: docs: add payment migration guide
