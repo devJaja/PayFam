@@ -204,3 +204,4 @@ contract CommitHistory {
 // Commit 189: refactor: optimize merchant updates
 // Commit 190: docs: add merchant best practices
 // Commit 191: feat: implement merchant search
+// Commit 192: security: add merchant auditing
