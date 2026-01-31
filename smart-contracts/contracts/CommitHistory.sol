@@ -161,3 +161,4 @@ contract CommitHistory {
 // Commit 146: security: implement payment auditing
 // Commit 147: refactor: optimize payment indexing
 // Commit 148: docs: add payment FAQ
+// Commit 149: feat: add payment reporting
