@@ -173,3 +173,4 @@ contract PayPalOnchain is ReentrancyGuard {
 // Commit 48: docs: add troubleshooting guide
 // Commit 49: feat: add payment notifications system
 // Commit 50: refactor: optimize contract size
+// Commit 51: feat: add merchant dashboard data
