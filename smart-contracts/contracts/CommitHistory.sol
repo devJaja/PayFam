@@ -219,3 +219,4 @@ contract CommitHistory {
 // Commit 204: security: add merchant encryption
 // Commit 205: refactor: optimize merchant compression
 // Commit 206: docs: add merchant integration guide
+// Commit 207: feat: add merchant forecasting
