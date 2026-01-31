@@ -210,3 +210,4 @@ contract CommitHistory {
 // Commit 195: feat: add merchant reputation
 // Commit 196: security: implement merchant blacklist
 // Commit 197: refactor: optimize merchant caching
+// Commit 198: docs: add merchant FAQ
