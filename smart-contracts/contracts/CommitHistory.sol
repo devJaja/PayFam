@@ -192,3 +192,4 @@ contract CommitHistory {
 // Commit 177: refactor: improve merchant queries
 // Commit 178: docs: add merchant API reference
 // Commit 179: feat: implement merchant tiers
+// Commit 180: security: add merchant monitoring
