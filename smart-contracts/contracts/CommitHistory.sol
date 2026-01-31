@@ -332,3 +332,4 @@ contract CommitHistory {
 // Commit 317: feat: add security analytics
 // Commit 318: security: add incident response
 // Commit 319: refactor: optimize security storage
+// Commit 320: docs: add security migration guide
