@@ -120,3 +120,4 @@ contract CommitHistory {
 // Commit 105: feat: add balance reconciliation
 // Commit 106: security: implement balance auditing
 // Commit 107: refactor: optimize balance indexing
+// Commit 108: docs: add balance FAQ
