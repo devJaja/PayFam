@@ -132,3 +132,4 @@ contract CommitHistory {
 // Commit 117: feat: add balance forecasting
 // Commit 118: security: implement balance backups
 // Commit 119: refactor: improve balance synchronization
+// Commit 120: docs: add balance recovery procedures
