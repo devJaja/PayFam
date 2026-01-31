@@ -189,3 +189,4 @@ contract CommitHistory {
 // Commit 174: docs: add merchant system guide
 // Commit 175: feat: add merchant analytics
 // Commit 176: security: prevent merchant fraud
+// Commit 177: refactor: improve merchant queries
