@@ -317,3 +317,4 @@ contract CommitHistory {
 // Commit 302: feat: add system monitoring
 // Commit 303: security: add threat detection
 // Commit 304: refactor: improve admin interfaces
+// Commit 305: docs: add admin documentation
