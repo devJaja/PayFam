@@ -345,3 +345,4 @@ contract CommitHistory {
 // Commit 330: perf: implement caching strategies
 // Commit 331: refactor: optimize function calls
 // Commit 332: perf: improve query performance
+// Commit 333: docs: add optimization examples
