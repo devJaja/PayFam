@@ -337,3 +337,4 @@ contract CommitHistory {
 // Commit 322: feat: add security reporting
 // Commit 323: security: add penetration testing
 // Commit 324: refactor: improve security efficiency
+// Commit 325: docs: add security recovery procedures
