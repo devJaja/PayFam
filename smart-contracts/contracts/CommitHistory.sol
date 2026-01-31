@@ -86,3 +86,4 @@ contract CommitHistory {
 // Commit 71: feat: implement username search
 // Commit 72: security: add username verification
 // Commit 73: refactor: improve username validation
+// Commit 74: docs: add username migration guide
