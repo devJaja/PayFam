@@ -124,3 +124,4 @@ contract CommitHistory {
 // Commit 109: feat: add balance reporting
 // Commit 110: security: prevent balance exploits
 // Commit 111: refactor: improve balance caching
+// Commit 112: docs: add balance performance guide
