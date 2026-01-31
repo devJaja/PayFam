@@ -319,3 +319,4 @@ contract CommitHistory {
 // Commit 304: refactor: improve admin interfaces
 // Commit 305: docs: add admin documentation
 // Commit 306: security: implement backup systems
+// Commit 307: feat: add compliance tools
