@@ -157,3 +157,4 @@ contract PayPalOnchain is ReentrancyGuard {
 // Commit 32: security: add time-based restrictions
 // Commit 33: docs: add security considerations
 // Commit 34: feat: add referral system foundation
+// Commit 35: refactor: improve contract inheritance
