@@ -217,3 +217,4 @@ contract PayPalOnchain is ReentrancyGuard {
 // Commit 92: security: add decentralized governance prep
 // Commit 93: docs: add community guidelines
 // Commit 94: feat: add payment insurance framework
+// Commit 95: refactor: improve contract upgradability
