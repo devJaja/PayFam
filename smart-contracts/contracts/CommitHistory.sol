@@ -16,3 +16,4 @@ contract CommitHistory {
 // Commit 1: feat: add contract initialization parameters
 // Commit 2: refactor: optimize contract constructor
 // Commit 3: security: add contract deployment validation
+// Commit 4: docs: add contract overview documentation
