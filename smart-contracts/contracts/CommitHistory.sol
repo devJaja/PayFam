@@ -282,3 +282,4 @@ contract CommitHistory {
 // Commit 267: refactor: optimize subscription caching
 // Commit 268: docs: add subscription FAQ
 // Commit 269: feat: add subscription reporting
+// Commit 270: security: prevent subscription exploits
