@@ -255,3 +255,4 @@ contract CommitHistory {
 // Commit 240: security: prevent invoice exploits
 // Commit 241: feat: implement subscription plans
 // Commit 242: security: add subscription validation
+// Commit 243: refactor: optimize subscription storage
