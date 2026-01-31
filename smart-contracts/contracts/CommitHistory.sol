@@ -359,3 +359,4 @@ contract CommitHistory {
 // Commit 344: perf: implement compression
 // Commit 345: docs: add performance troubleshooting
 // Commit 346: perf: optimize database queries
+// Commit 347: refactor: improve resource management
