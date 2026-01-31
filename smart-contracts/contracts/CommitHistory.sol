@@ -195,3 +195,4 @@ contract CommitHistory {
 // Commit 180: security: add merchant monitoring
 // Commit 181: refactor: optimize merchant indexing
 // Commit 182: docs: add merchant examples
+// Commit 183: feat: add merchant notifications
