@@ -145,3 +145,4 @@ contract PayPalOnchain is ReentrancyGuard {
 // Commit 20: refactor: optimize storage layout
 // Commit 21: feat: add merchant verification system
 // Commit 22: security: add rate limiting for payments
+// Commit 23: docs: add comprehensive function documentation
