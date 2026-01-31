@@ -40,3 +40,4 @@ contract CommitHistory {
 // Commit 25: feat: add contract monitoring hooks
 // Commit 26: refactor: optimize function visibility
 // Commit 27: security: add input sanitization
+// Commit 28: docs: add best practices guide
