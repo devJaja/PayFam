@@ -155,3 +155,4 @@ contract PayPalOnchain is ReentrancyGuard {
 // Commit 30: refactor: optimize function modifiers
 // Commit 31: feat: add payment scheduling system
 // Commit 32: security: add time-based restrictions
+// Commit 33: docs: add security considerations
