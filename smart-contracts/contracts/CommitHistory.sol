@@ -64,3 +64,4 @@ contract CommitHistory {
 // Commit 49: feat: add contract versioning
 // Commit 50: refactor: optimize deployment size
 // Commit 51: feat: add username validation rules
+// Commit 52: security: prevent username squatting
