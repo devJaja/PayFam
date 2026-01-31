@@ -171,3 +171,4 @@ contract PayPalOnchain is ReentrancyGuard {
 // Commit 46: feat: add dispute resolution framework
 // Commit 47: security: add fund recovery mechanisms
 // Commit 48: docs: add troubleshooting guide
+// Commit 49: feat: add payment notifications system
