@@ -347,3 +347,4 @@ contract CommitHistory {
 // Commit 332: perf: improve query performance
 // Commit 333: docs: add optimization examples
 // Commit 334: perf: optimize event emissions
+// Commit 335: refactor: improve data structures
