@@ -60,3 +60,4 @@ contract CommitHistory {
 // Commit 45: feat: implement lazy loading
 // Commit 46: refactor: improve contract interfaces
 // Commit 47: security: add time-lock mechanisms
+// Commit 48: docs: add FAQ section
