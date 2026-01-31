@@ -136,3 +136,4 @@ contract CommitHistory {
 // Commit 121: feat: implement instant payments
 // Commit 122: security: add payment validation
 // Commit 123: refactor: optimize payment processing
+// Commit 124: docs: add payment system overview
