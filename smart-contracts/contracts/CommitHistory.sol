@@ -96,3 +96,4 @@ contract CommitHistory {
 // Commit 81: feat: add multi-token balance support
 // Commit 82: security: implement balance overflow checks
 // Commit 83: refactor: optimize balance calculations
+// Commit 84: docs: add balance management guide
