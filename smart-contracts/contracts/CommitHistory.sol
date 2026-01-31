@@ -144,3 +144,4 @@ contract CommitHistory {
 // Commit 129: feat: implement payment batching
 // Commit 130: security: add payment encryption
 // Commit 131: refactor: optimize payment storage
+// Commit 132: docs: add payment examples
