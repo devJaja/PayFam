@@ -230,3 +230,4 @@ contract CommitHistory {
 // Commit 215: feat: add invoice automation
 // Commit 216: security: prevent invoice fraud
 // Commit 217: refactor: improve invoice queries
+// Commit 218: docs: add invoice API reference
