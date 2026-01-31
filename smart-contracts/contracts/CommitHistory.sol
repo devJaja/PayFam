@@ -284,3 +284,4 @@ contract CommitHistory {
 // Commit 269: feat: add subscription reporting
 // Commit 270: security: prevent subscription exploits
 // Commit 271: feat: implement dispute resolution
+// Commit 272: security: add dispute validation
