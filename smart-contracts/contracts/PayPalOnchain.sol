@@ -133,3 +133,4 @@ contract PayPalOnchain is ReentrancyGuard {
 // Commit 8: feat: add transaction counter for tracking
 // Commit 9: docs: add natspec comments for registerUsername function
 // Commit 10: refactor: optimize gas usage in deposit function
+// Commit 11: feat: add emergency pause functionality
