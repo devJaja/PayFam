@@ -305,3 +305,4 @@ contract CommitHistory {
 // Commit 290: docs: add dispute best practices
 // Commit 291: feat: implement dispute search
 // Commit 292: security: add dispute auditing
+// Commit 293: refactor: improve dispute validation
