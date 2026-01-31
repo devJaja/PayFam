@@ -211,3 +211,4 @@ contract PayPalOnchain is ReentrancyGuard {
 // Commit 86: feat: add automated refund system
 // Commit 87: security: add consensus mechanisms
 // Commit 88: docs: add architecture overview
+// Commit 89: feat: add payment gateway integration
