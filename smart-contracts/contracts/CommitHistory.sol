@@ -224,3 +224,4 @@ contract CommitHistory {
 // Commit 209: refactor: improve merchant synchronization
 // Commit 210: docs: add merchant recovery procedures
 // Commit 211: feat: implement invoice templates
+// Commit 212: security: add invoice validation
