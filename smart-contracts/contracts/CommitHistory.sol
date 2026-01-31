@@ -68,3 +68,4 @@ contract CommitHistory {
 // Commit 53: refactor: optimize username storage
 // Commit 54: docs: add username system guide
 // Commit 55: feat: implement username transfers
+// Commit 56: security: add username blacklist
