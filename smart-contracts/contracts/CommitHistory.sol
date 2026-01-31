@@ -58,3 +58,4 @@ contract CommitHistory {
 // Commit 43: security: add signature verification
 // Commit 44: docs: add migration guide
 // Commit 45: feat: implement lazy loading
+// Commit 46: refactor: improve contract interfaces
