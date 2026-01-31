@@ -169,3 +169,4 @@ contract CommitHistory {
 // Commit 154: security: add payment signatures
 // Commit 155: refactor: optimize payment compression
 // Commit 156: docs: add payment integration guide
+// Commit 157: feat: add payment forecasting
