@@ -285,3 +285,4 @@ contract CommitHistory {
 // Commit 270: security: prevent subscription exploits
 // Commit 271: feat: implement dispute resolution
 // Commit 272: security: add dispute validation
+// Commit 273: refactor: optimize dispute storage
