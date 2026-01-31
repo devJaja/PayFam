@@ -43,3 +43,4 @@ contract CommitHistory {
 // Commit 28: docs: add best practices guide
 // Commit 29: feat: implement event filtering
 // Commit 30: refactor: improve code organization
+// Commit 31: security: add overflow protection
