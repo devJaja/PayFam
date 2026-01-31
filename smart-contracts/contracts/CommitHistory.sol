@@ -50,3 +50,4 @@ contract CommitHistory {
 // Commit 35: security: add reentrancy protection
 // Commit 36: docs: add usage examples
 // Commit 37: feat: implement batch operations
+// Commit 38: refactor: improve function naming
