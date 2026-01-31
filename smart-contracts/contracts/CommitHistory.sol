@@ -160,3 +160,4 @@ contract CommitHistory {
 // Commit 145: feat: add payment reconciliation
 // Commit 146: security: implement payment auditing
 // Commit 147: refactor: optimize payment indexing
+// Commit 148: docs: add payment FAQ
