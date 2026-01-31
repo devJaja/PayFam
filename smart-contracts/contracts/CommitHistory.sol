@@ -237,3 +237,4 @@ contract CommitHistory {
 // Commit 222: docs: add invoice examples
 // Commit 223: feat: add invoice analytics
 // Commit 224: security: implement invoice limits
+// Commit 225: refactor: improve invoice events
