@@ -165,3 +165,4 @@ contract CommitHistory {
 // Commit 150: security: prevent payment exploits
 // Commit 151: refactor: improve payment caching
 // Commit 152: docs: add payment performance guide
+// Commit 153: feat: implement payment routing
