@@ -140,3 +140,4 @@ contract CommitHistory {
 // Commit 125: feat: add payment scheduling
 // Commit 126: security: prevent payment fraud
 // Commit 127: refactor: improve payment routing
+// Commit 128: docs: add payment API reference
