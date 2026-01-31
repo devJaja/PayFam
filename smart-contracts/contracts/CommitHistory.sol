@@ -77,3 +77,4 @@ contract CommitHistory {
 // Commit 62: docs: add username API reference
 // Commit 63: feat: implement username auctions
 // Commit 64: security: prevent username abuse
+// Commit 65: refactor: improve username events
