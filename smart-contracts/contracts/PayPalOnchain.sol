@@ -11,6 +11,9 @@ import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 import "@openzeppelin/contracts/utils/ReentrancyGuard.sol";
 
 contract PayPalOnchain is ReentrancyGuard {
+    // Version
+    string public constant VERSION = "1.0.0";
+    
     mapping(address => mapping(address => uint256)) public balances;
     mapping(address => string) public addressToUsername;
     mapping(string => address) public usernameToAddress;
