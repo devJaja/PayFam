@@ -191,3 +191,4 @@ contract PayPalOnchain is ReentrancyGuard {
 // Commit 66: feat: add merchant onboarding flow
 // Commit 67: security: add signature verification
 // Commit 68: docs: add deployment checklist
+// Commit 69: feat: add payment splitting functionality
