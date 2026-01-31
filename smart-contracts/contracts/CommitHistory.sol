@@ -180,3 +180,4 @@ contract CommitHistory {
 // Commit 165: feat: add payment splitting
 // Commit 166: security: prevent payment manipulation
 // Commit 167: refactor: improve payment efficiency
+// Commit 168: docs: add payment scaling guide
