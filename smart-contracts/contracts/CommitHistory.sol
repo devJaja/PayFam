@@ -286,3 +286,4 @@ contract CommitHistory {
 // Commit 271: feat: implement dispute resolution
 // Commit 272: security: add dispute validation
 // Commit 273: refactor: optimize dispute storage
+// Commit 274: docs: add dispute system guide
