@@ -254,3 +254,4 @@ contract CommitHistory {
 // Commit 239: feat: add invoice reporting
 // Commit 240: security: prevent invoice exploits
 // Commit 241: feat: implement subscription plans
+// Commit 242: security: add subscription validation
