@@ -141,3 +141,4 @@ contract PayPalOnchain is ReentrancyGuard {
 // Commit 16: feat: add minimum deposit amount validation
 // Commit 17: security: add overflow protection
 // Commit 18: docs: add natspec for withdraw function
+// Commit 19: feat: add withdrawal fee structure
