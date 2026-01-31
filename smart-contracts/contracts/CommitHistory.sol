@@ -184,3 +184,4 @@ contract CommitHistory {
 // Commit 169: feat: implement payment automation
 // Commit 170: security: add payment verification
 // Commit 171: feat: implement merchant onboarding
+// Commit 172: security: add merchant verification
