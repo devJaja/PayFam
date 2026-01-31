@@ -88,3 +88,4 @@ contract CommitHistory {
 // Commit 73: refactor: improve username validation
 // Commit 74: docs: add username migration guide
 // Commit 75: feat: add username analytics
+// Commit 76: security: prevent username spoofing
