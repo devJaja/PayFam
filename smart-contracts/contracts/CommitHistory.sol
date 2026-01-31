@@ -110,3 +110,4 @@ contract CommitHistory {
 // Commit 95: refactor: improve balance events
 // Commit 96: docs: add balance troubleshooting
 // Commit 97: feat: add balance analytics
+// Commit 98: security: prevent balance draining
