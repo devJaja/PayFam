@@ -312,3 +312,4 @@ contract CommitHistory {
 // Commit 297: feat: add admin dashboard
 // Commit 298: security: add audit logging
 // Commit 299: refactor: optimize admin functions
+// Commit 300: docs: add security guidelines
