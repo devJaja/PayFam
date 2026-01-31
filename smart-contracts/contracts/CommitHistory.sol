@@ -26,3 +26,4 @@ contract CommitHistory {
 // Commit 11: security: add contract pause functionality
 // Commit 12: docs: add security audit checklist
 // Commit 13: feat: implement contract factory pattern
+// Commit 14: refactor: improve contract modularity
