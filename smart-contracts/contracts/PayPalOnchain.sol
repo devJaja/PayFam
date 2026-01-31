@@ -166,3 +166,4 @@ contract PayPalOnchain is ReentrancyGuard {
 // Commit 41: feat: add payment analytics tracking
 // Commit 42: security: add admin role management
 // Commit 43: docs: add API documentation
+// Commit 44: feat: add subscription management system
