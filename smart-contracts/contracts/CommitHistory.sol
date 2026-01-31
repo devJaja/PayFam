@@ -226,3 +226,4 @@ contract CommitHistory {
 // Commit 211: feat: implement invoice templates
 // Commit 212: security: add invoice validation
 // Commit 213: refactor: optimize invoice storage
+// Commit 214: docs: add invoice system guide
