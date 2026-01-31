@@ -208,3 +208,4 @@ contract CommitHistory {
 // Commit 193: refactor: improve merchant validation
 // Commit 194: docs: add merchant migration guide
 // Commit 195: feat: add merchant reputation
+// Commit 196: security: implement merchant blacklist
