@@ -168,3 +168,4 @@ contract CommitHistory {
 // Commit 153: feat: implement payment routing
 // Commit 154: security: add payment signatures
 // Commit 155: refactor: optimize payment compression
+// Commit 156: docs: add payment integration guide
