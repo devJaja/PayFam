@@ -264,3 +264,4 @@ contract CommitHistory {
 // Commit 249: feat: implement subscription tiers
 // Commit 250: security: add subscription monitoring
 // Commit 251: refactor: optimize subscription indexing
+// Commit 252: docs: add subscription examples
