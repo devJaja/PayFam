@@ -149,3 +149,4 @@ contract PayPalOnchain is ReentrancyGuard {
 // Commit 24: feat: add payment categories enum
 // Commit 25: refactor: improve event parameter indexing
 // Commit 26: feat: add payment limits per user
+// Commit 27: security: add blacklist functionality
