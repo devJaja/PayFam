@@ -80,3 +80,4 @@ contract CommitHistory {
 // Commit 65: refactor: improve username events
 // Commit 66: docs: add username examples
 // Commit 67: feat: add username metadata
+// Commit 68: security: add username rate limits
