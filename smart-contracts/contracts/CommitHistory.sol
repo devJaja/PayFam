@@ -137,3 +137,4 @@ contract CommitHistory {
 // Commit 122: security: add payment validation
 // Commit 123: refactor: optimize payment processing
 // Commit 124: docs: add payment system overview
+// Commit 125: feat: add payment scheduling
