@@ -213,3 +213,4 @@ contract CommitHistory {
 // Commit 198: docs: add merchant FAQ
 // Commit 199: feat: add merchant reporting
 // Commit 200: security: prevent merchant exploits
+// Commit 201: refactor: improve merchant efficiency
