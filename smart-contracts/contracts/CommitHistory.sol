@@ -323,3 +323,4 @@ contract CommitHistory {
 // Commit 308: security: add fraud detection
 // Commit 309: refactor: optimize security checks
 // Commit 310: docs: add security best practices
+// Commit 311: security: implement access controls
