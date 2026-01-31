@@ -259,3 +259,4 @@ contract CommitHistory {
 // Commit 244: docs: add subscription system guide
 // Commit 245: feat: add subscription analytics
 // Commit 246: security: prevent subscription fraud
+// Commit 247: refactor: improve subscription queries
