@@ -160,3 +160,4 @@ contract PayPalOnchain is ReentrancyGuard {
 // Commit 35: refactor: improve contract inheritance
 // Commit 36: feat: add loyalty points system
 // Commit 37: security: add circuit breaker pattern
+// Commit 38: docs: add deployment instructions
