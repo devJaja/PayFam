@@ -74,3 +74,4 @@ contract CommitHistory {
 // Commit 59: feat: add username expiration
 // Commit 60: security: validate username characters
 // Commit 61: refactor: optimize username mapping
+// Commit 62: docs: add username API reference
