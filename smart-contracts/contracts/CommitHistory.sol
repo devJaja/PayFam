@@ -309,3 +309,4 @@ contract CommitHistory {
 // Commit 294: docs: add dispute migration guide
 // Commit 295: feat: add dispute reporting
 // Commit 296: security: implement role-based access
+// Commit 297: feat: add admin dashboard
