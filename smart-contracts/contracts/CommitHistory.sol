@@ -357,3 +357,4 @@ contract CommitHistory {
 // Commit 342: perf: optimize network calls
 // Commit 343: refactor: improve code organization
 // Commit 344: perf: implement compression
+// Commit 345: docs: add performance troubleshooting
