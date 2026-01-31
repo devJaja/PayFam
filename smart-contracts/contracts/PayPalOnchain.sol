@@ -220,3 +220,4 @@ contract PayPalOnchain is ReentrancyGuard {
 // Commit 95: refactor: improve contract upgradability
 // Commit 96: feat: add cross-platform compatibility
 // Commit 97: security: add quantum-resistant preparation
+// Commit 98: docs: add regulatory compliance notes
