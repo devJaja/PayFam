@@ -49,3 +49,4 @@ contract CommitHistory {
 // Commit 34: refactor: optimize memory usage
 // Commit 35: security: add reentrancy protection
 // Commit 36: docs: add usage examples
+// Commit 37: feat: implement batch operations
