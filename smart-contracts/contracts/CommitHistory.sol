@@ -71,3 +71,4 @@ contract CommitHistory {
 // Commit 56: security: add username blacklist
 // Commit 57: refactor: improve username lookup
 // Commit 58: docs: add username best practices
+// Commit 59: feat: add username expiration
