@@ -202,3 +202,4 @@ contract CommitHistory {
 // Commit 187: feat: add merchant dashboard
 // Commit 188: security: prevent merchant abuse
 // Commit 189: refactor: optimize merchant updates
+// Commit 190: docs: add merchant best practices
