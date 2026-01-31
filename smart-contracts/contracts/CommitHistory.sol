@@ -188,3 +188,4 @@ contract CommitHistory {
 // Commit 173: refactor: optimize merchant storage
 // Commit 174: docs: add merchant system guide
 // Commit 175: feat: add merchant analytics
+// Commit 176: security: prevent merchant fraud
