@@ -148,3 +148,4 @@ contract CommitHistory {
 // Commit 133: feat: add payment notifications
 // Commit 134: security: implement payment limits
 // Commit 135: refactor: improve payment events
+// Commit 136: docs: add payment troubleshooting
