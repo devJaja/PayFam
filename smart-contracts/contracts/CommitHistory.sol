@@ -302,3 +302,4 @@ contract CommitHistory {
 // Commit 287: feat: add dispute dashboard
 // Commit 288: security: prevent dispute abuse
 // Commit 289: refactor: optimize dispute updates
+// Commit 290: docs: add dispute best practices
