@@ -249,3 +249,4 @@ contract CommitHistory {
 // Commit 234: docs: add invoice migration guide
 // Commit 235: feat: add invoice reconciliation
 // Commit 236: security: implement invoice auditing
+// Commit 237: refactor: optimize invoice caching
