@@ -163,3 +163,4 @@ contract PayPalOnchain is ReentrancyGuard {
 // Commit 38: docs: add deployment instructions
 // Commit 39: feat: add cross-chain compatibility prep
 // Commit 40: refactor: optimize event emissions
+// Commit 41: feat: add payment analytics tracking
