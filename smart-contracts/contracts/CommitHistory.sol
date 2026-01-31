@@ -18,3 +18,4 @@ contract CommitHistory {
 // Commit 3: security: add contract deployment validation
 // Commit 4: docs: add contract overview documentation
 // Commit 5: feat: implement basic access control
+// Commit 6: refactor: improve contract inheritance structure
