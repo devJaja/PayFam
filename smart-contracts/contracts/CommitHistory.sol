@@ -116,3 +116,4 @@ contract CommitHistory {
 // Commit 101: feat: implement balance snapshots
 // Commit 102: security: add balance monitoring
 // Commit 103: refactor: improve balance precision
+// Commit 104: docs: add balance migration guide
