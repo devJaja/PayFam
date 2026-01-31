@@ -213,3 +213,4 @@ contract PayPalOnchain is ReentrancyGuard {
 // Commit 88: docs: add architecture overview
 // Commit 89: feat: add payment gateway integration
 // Commit 90: refactor: optimize contract deployment
+// Commit 91: feat: add merchant reputation system
