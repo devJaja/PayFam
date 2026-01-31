@@ -361,3 +361,4 @@ contract CommitHistory {
 // Commit 346: perf: optimize database queries
 // Commit 347: refactor: improve resource management
 // Commit 348: perf: implement parallel processing
+// Commit 349: docs: add performance best practices
