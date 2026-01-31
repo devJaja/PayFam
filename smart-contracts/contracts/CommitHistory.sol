@@ -289,3 +289,4 @@ contract CommitHistory {
 // Commit 274: docs: add dispute system guide
 // Commit 275: feat: add dispute analytics
 // Commit 276: security: prevent dispute fraud
+// Commit 277: refactor: improve dispute queries
