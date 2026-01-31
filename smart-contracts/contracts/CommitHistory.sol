@@ -206,3 +206,4 @@ contract CommitHistory {
 // Commit 191: feat: implement merchant search
 // Commit 192: security: add merchant auditing
 // Commit 193: refactor: improve merchant validation
+// Commit 194: docs: add merchant migration guide
