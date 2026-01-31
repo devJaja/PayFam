@@ -198,3 +198,4 @@ contract CommitHistory {
 // Commit 183: feat: add merchant notifications
 // Commit 184: security: implement merchant limits
 // Commit 185: refactor: improve merchant events
+// Commit 186: docs: add merchant troubleshooting
