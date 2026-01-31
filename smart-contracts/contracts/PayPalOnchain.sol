@@ -188,3 +188,4 @@ contract PayPalOnchain is ReentrancyGuard {
 // Commit 63: docs: add testing guidelines
 // Commit 64: feat: add payment confirmation system
 // Commit 65: refactor: improve error handling
+// Commit 66: feat: add merchant onboarding flow
