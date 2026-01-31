@@ -79,3 +79,4 @@ contract CommitHistory {
 // Commit 64: security: prevent username abuse
 // Commit 65: refactor: improve username events
 // Commit 66: docs: add username examples
+// Commit 67: feat: add username metadata
