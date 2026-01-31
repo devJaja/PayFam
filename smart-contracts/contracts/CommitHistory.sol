@@ -186,3 +186,4 @@ contract CommitHistory {
 // Commit 171: feat: implement merchant onboarding
 // Commit 172: security: add merchant verification
 // Commit 173: refactor: optimize merchant storage
+// Commit 174: docs: add merchant system guide
