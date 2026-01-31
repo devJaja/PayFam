@@ -98,3 +98,4 @@ contract CommitHistory {
 // Commit 83: refactor: optimize balance calculations
 // Commit 84: docs: add balance management guide
 // Commit 85: feat: add balance history tracking
+// Commit 86: security: prevent balance manipulation
