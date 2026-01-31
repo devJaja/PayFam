@@ -256,3 +256,4 @@ contract CommitHistory {
 // Commit 241: feat: implement subscription plans
 // Commit 242: security: add subscription validation
 // Commit 243: refactor: optimize subscription storage
+// Commit 244: docs: add subscription system guide
