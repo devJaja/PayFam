@@ -14,3 +14,4 @@ contract CommitHistory {
     // This file will be updated with each commit to track development progress
 }
 // Commit 1: feat: add contract initialization parameters
+// Commit 2: refactor: optimize contract constructor
