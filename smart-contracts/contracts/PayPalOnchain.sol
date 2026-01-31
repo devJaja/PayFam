@@ -14,6 +14,10 @@ contract PayPalOnchain is ReentrancyGuard {
     // Version
     string public constant VERSION = "1.0.0";
     
+    // Fee structure
+    uint256 public constant PLATFORM_FEE = 25; // 0.25% in basis points
+    uint256 public constant FEE_DENOMINATOR = 10000;
+    
     mapping(address => mapping(address => uint256)) public balances;
     mapping(address => string) public addressToUsername;
     mapping(string => address) public usernameToAddress;
