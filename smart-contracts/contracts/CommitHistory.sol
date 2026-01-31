@@ -265,3 +265,4 @@ contract CommitHistory {
 // Commit 250: security: add subscription monitoring
 // Commit 251: refactor: optimize subscription indexing
 // Commit 252: docs: add subscription examples
+// Commit 253: feat: add subscription notifications
