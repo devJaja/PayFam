@@ -151,3 +151,4 @@ contract CommitHistory {
 // Commit 136: docs: add payment troubleshooting
 // Commit 137: feat: add payment analytics
 // Commit 138: security: prevent payment replay
+// Commit 139: refactor: optimize payment queries
