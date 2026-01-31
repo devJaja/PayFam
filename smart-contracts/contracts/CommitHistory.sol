@@ -243,3 +243,4 @@ contract CommitHistory {
 // Commit 228: security: prevent invoice manipulation
 // Commit 229: refactor: optimize invoice updates
 // Commit 230: docs: add invoice best practices
+// Commit 231: feat: implement invoice search
