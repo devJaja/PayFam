@@ -246,3 +246,4 @@ contract CommitHistory {
 // Commit 231: feat: implement invoice search
 // Commit 232: security: add invoice monitoring
 // Commit 233: refactor: improve invoice validation
+// Commit 234: docs: add invoice migration guide
