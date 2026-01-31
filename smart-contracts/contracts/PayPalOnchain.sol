@@ -134,3 +134,4 @@ contract PayPalOnchain is ReentrancyGuard {
 // Commit 9: docs: add natspec comments for registerUsername function
 // Commit 10: refactor: optimize gas usage in deposit function
 // Commit 11: feat: add emergency pause functionality
+// Commit 12: security: add input validation for username length
