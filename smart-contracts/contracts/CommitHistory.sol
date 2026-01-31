@@ -299,3 +299,4 @@ contract CommitHistory {
 // Commit 284: security: implement dispute limits
 // Commit 285: refactor: improve dispute events
 // Commit 286: docs: add dispute troubleshooting
+// Commit 287: feat: add dispute dashboard
