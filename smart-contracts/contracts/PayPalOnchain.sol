@@ -152,3 +152,4 @@ contract PayPalOnchain is ReentrancyGuard {
 // Commit 27: security: add blacklist functionality
 // Commit 28: docs: add contract usage examples
 // Commit 29: feat: add multi-signature support preparation
+// Commit 30: refactor: optimize function modifiers
