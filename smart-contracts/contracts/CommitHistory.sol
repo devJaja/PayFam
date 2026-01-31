@@ -128,3 +128,4 @@ contract CommitHistory {
 // Commit 113: feat: implement balance streaming
 // Commit 114: security: add balance encryption
 // Commit 115: refactor: optimize balance compression
+// Commit 116: docs: add balance integration guide
