@@ -130,3 +130,4 @@ contract PayPalOnchain is ReentrancyGuard {
 // Commit 5: docs: add inline comments for balance mapping
 // Commit 6: feat: add owner address variable for admin functions
 // Commit 7: security: add zero address validation helper
+// Commit 8: feat: add transaction counter for tracking
