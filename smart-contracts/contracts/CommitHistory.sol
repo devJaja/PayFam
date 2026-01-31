@@ -90,3 +90,4 @@ contract CommitHistory {
 // Commit 75: feat: add username analytics
 // Commit 76: security: prevent username spoofing
 // Commit 77: refactor: optimize username indexing
+// Commit 78: docs: add username FAQ
