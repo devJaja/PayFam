@@ -104,3 +104,4 @@ contract CommitHistory {
 // Commit 89: feat: implement balance notifications
 // Commit 90: security: add balance validation
 // Commit 91: refactor: optimize balance queries
+// Commit 92: docs: add balance examples
