@@ -138,3 +138,4 @@ contract PayPalOnchain is ReentrancyGuard {
 // Commit 13: docs: add natspec for sendPayment function
 // Commit 14: feat: add maximum username length constant
 // Commit 15: refactor: improve error messages clarity
+// Commit 16: feat: add minimum deposit amount validation
