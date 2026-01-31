@@ -127,3 +127,4 @@ contract PayPalOnchain is ReentrancyGuard {
     }
 }
 // Commit 4: refactor: improve code formatting and spacing
+// Commit 5: docs: add inline comments for balance mapping
