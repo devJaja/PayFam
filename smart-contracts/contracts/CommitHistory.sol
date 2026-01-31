@@ -294,3 +294,4 @@ contract CommitHistory {
 // Commit 279: feat: implement dispute mediation
 // Commit 280: security: add dispute monitoring
 // Commit 281: refactor: optimize dispute indexing
+// Commit 282: docs: add dispute examples
