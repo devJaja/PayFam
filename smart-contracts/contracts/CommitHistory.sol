@@ -272,3 +272,4 @@ contract CommitHistory {
 // Commit 257: feat: add subscription dashboard
 // Commit 258: security: prevent subscription abuse
 // Commit 259: refactor: optimize subscription updates
+// Commit 260: docs: add subscription best practices
