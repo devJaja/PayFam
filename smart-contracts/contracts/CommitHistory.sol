@@ -83,3 +83,4 @@ contract CommitHistory {
 // Commit 68: security: add username rate limits
 // Commit 69: refactor: optimize username queries
 // Commit 70: docs: add username troubleshooting
+// Commit 71: feat: implement username search
