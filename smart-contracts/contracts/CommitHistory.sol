@@ -51,3 +51,4 @@ contract CommitHistory {
 // Commit 36: docs: add usage examples
 // Commit 37: feat: implement batch operations
 // Commit 38: refactor: improve function naming
+// Commit 39: security: add access control lists
