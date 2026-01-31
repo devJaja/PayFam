@@ -252,3 +252,4 @@ contract CommitHistory {
 // Commit 237: refactor: optimize invoice caching
 // Commit 238: docs: add invoice FAQ
 // Commit 239: feat: add invoice reporting
+// Commit 240: security: prevent invoice exploits
