@@ -34,3 +34,4 @@ contract CommitHistory {
 // Commit 19: security: add multi-signature requirements
 // Commit 20: docs: add integration examples
 // Commit 21: feat: implement proxy pattern support
+// Commit 22: refactor: improve error handling
