@@ -152,3 +152,4 @@ contract CommitHistory {
 // Commit 137: feat: add payment analytics
 // Commit 138: security: prevent payment replay
 // Commit 139: refactor: optimize payment queries
+// Commit 140: docs: add payment best practices
