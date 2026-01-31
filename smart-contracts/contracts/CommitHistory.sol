@@ -107,3 +107,4 @@ contract CommitHistory {
 // Commit 92: docs: add balance examples
 // Commit 93: feat: add balance aggregation
 // Commit 94: security: implement balance locks
+// Commit 95: refactor: improve balance events
