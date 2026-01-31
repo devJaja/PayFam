@@ -162,3 +162,4 @@ contract PayPalOnchain is ReentrancyGuard {
 // Commit 37: security: add circuit breaker pattern
 // Commit 38: docs: add deployment instructions
 // Commit 39: feat: add cross-chain compatibility prep
+// Commit 40: refactor: optimize event emissions
