@@ -218,3 +218,4 @@ contract CommitHistory {
 // Commit 203: feat: implement merchant categories
 // Commit 204: security: add merchant encryption
 // Commit 205: refactor: optimize merchant compression
+// Commit 206: docs: add merchant integration guide
